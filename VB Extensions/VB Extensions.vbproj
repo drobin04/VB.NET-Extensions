@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>VB_Extensions</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.118" />
+  </ItemGroup>
+
+</Project>
